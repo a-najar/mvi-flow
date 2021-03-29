@@ -7,3 +7,5 @@ f
 app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
 k
 ;app/src/test/java/com/geniusforapp/mvi/MainViewModelTest.kt,4/9/495cda3c58eaac1110acae1bd991e109f6d61a40
+g
+7app/src/main/java/com/geniusforapp/mvi/FirstFragment.kt,3/2/328e050b9a486ffe1e91e463b4351415524aebc0
